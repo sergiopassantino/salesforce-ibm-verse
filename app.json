@@ -6,12 +6,12 @@
 		"salesforce",
 		"node"
 	],
-	"website": "https://github.com/sergiopassantino/salesforce-ibmverse",
-	"repository": "https://github.com/sergiopassantino/salesforce-ibmverse",
+	"website": "https://github.com/sergiopassantino/salesforce-ibm-verse",
+	"repository": "https://github.com/sergiopassantino/salesforce-ibm-verse",
 	"success_url": "/",
 	"env": {
-		"FORCE_OAUTH_CONSUMER_KEY":     { "description": "Chiave Consumatore dell'App Connessa di Force.com" },
-		"FORCE_OAUTH_CONSUMER_SECRET":  { "description": "Chiave Segreta Consumatore dell'App Connessa di Force.com" },
+		"FORCE_OAUTH_CONSUMER_KEY":     { "description": "Chiave Consumatore App Connessa di Force.com" },
+		"FORCE_OAUTH_CONSUMER_SECRET":  { "description": "Segreta Consumatore App Connessa di Force.com" },
 		"VERSE_SOURCE_SERVER":  { "description": "URL del server Verse per lo script cross-site" }
   }
 }
