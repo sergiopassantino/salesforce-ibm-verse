@@ -2,7 +2,7 @@
   {
     "app_id": "com.winkelmeyer.salesforce",
     "name": "Integrazione Salesforce-Verse",
-    "url": "https://itk-integration-ibmverse.herokuapp.com/verse",
+    "url": "https://italkali-salesforceibmverse.herokuapp.com/verse",
 
     "extensions": [
       {
