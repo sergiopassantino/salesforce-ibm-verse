@@ -1,17 +1,17 @@
 [
   {
     "app_id": "com.winkelmeyer.salesforce",
-    "name": "Salesforce Verse integration",
-    "url": "https://salesforce-ibm-verse.herokuapp.com/verse",
+    "name": "Integrazione Salesforce-Verse",
+    "url": "https://itk-integration-ibmverse.herokuapp.com/verse",
 
     "extensions": [
       {
         "type": "com.ibm.verse.action",
         "ext_id": "com.winkelmeyer.salesforce.logMail",
-        "name": "Log to Salesforce",
+        "name": "Accedi a Salesforce",
         "payload": {},
         "path": "mail.read",
-        "title": "Log to Salesforce"
+        "title": "Accedi a Salesforce"
       }
     ],
 
