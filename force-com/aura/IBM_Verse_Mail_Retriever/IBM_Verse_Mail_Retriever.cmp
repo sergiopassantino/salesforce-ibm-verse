@@ -17,7 +17,7 @@
         
         <lightning:input aura:id="inputSearch"
                          name="inputSearch"
-                         label="Account Search"
+                         label="Ricerca Account"
                          placeholder="Inserisci il nome di un Account"
                          minlength="3"
                          messageWhenBadInput="Inserisci almeno 3 caratteri per la ricerca."
