@@ -18,7 +18,7 @@ function setupLightning(callback) {
 	var lightningComponent = config.lightningComponent;
 	var oauth = force.getOauth();
     if (!oauth) {
-        alert("Please login to Salesforce.com first!");
+        alert("Devi effettuare prima l'accesso a Salesforce");
         return;
     }
 
